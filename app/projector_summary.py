@@ -133,8 +133,11 @@ def projector_summary(lin=0):
     - infrastruktuurin ja joukkoliikenteen kysyntäkehitys
     - palvelukysynnän kasvu (puistot, päiväkodit, koulut, terveydenhuolto, vähittäiskauppa jne.)
     - verotuloprojektiot
-    - segregaation kehitys
-
+    - segregaation kehitys  
+       
+    _"Projektori" on syntynyt [ReUrbia](https://doi.org/10.31885/9789526496375) ja 
+    [Pientalot kaupungissa](https://pientaloteollisuus.fi/tietoa-toimialasta/tutkittua-tietoa/pientalot-kaupungissa/) hankkeissa tunnistetuista tarpeista._
+    
     """
 
     text_eng = """
@@ -262,7 +265,10 @@ def projector_summary(lin=0):
     - Infrastructure and transit demand development
     - Service demand growth (parks, childcare, schools, healthcare, retail, etc.)
     - Tax revenue projections
-    - Segregation dynamics
+    - Segregation dynamics  
+      
+    _"Projector" originated from needs identified in the [ReUrbia](https://doi.org/10.31885/9789526496375) and 
+    [Family-houses in the City](https://pientaloteollisuus.fi/tietoa-toimialasta/tutkittua-tietoa/pientalot-kaupungissa/) projects._
     """
 
     if lin == 0:
